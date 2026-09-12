@@ -15,3 +15,13 @@ Hoy vi otros 4 tipos de datos list, Tuple, Dict, set. Pude entender como es que 
 ¿Que es tipo, a que se refiere con tipo, como funcionan los que se denominan tipo? 
 ¿Que relacion tiene esto con la vida real?
 Interesante su relacion, seria en folios cuando vas a registrarte o en incluso en los programas de la misma escuala en los ines o en las credenciales de cualquier lugar que te pidan incluso en los correos electronicos, pero tendria que aver otra relacion mas enfocada en lo real, podria ser en una lapizera la lapizera es la variable y dentro de ella esta el valor el lapiz cuando sacas el lapiz la variable podria decirse que se imprime no lo se talvez seria una
+
+Clase 5 
+¿Que aprendi? 
+Hoy vi los operadores de programacion que me permitieron comparar numeros y saber si algunos son iguales, menores y/o mayores, mayores o igual que, menores o igual que. tambien vi las deciciones como el if se  mas o menos como funciona pero no me voy a adelantar
+¿Que no entendi?
+Al principio me confundía la posición de los símbolos en <= y >=, pero entendí que en Python se escriben de esa manera y no como =< o =>.
+¿Que pregunta me quedo?
+¿Para que mas podriamos usar esto? 
+¿Que relacion tiene esto en la vida real?
+Para muchas cosas como intercambiar una lap por otra viendo el procesador si es mayor o igual o la ram. 
